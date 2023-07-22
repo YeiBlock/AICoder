@@ -1,6 +1,6 @@
-# aider is GPT powered coding in your terminal
+# AI coding in your terminal
 
-`aider` is a command-line chat tool that allows you to write and edit
+`AICoder` is a command-line chat tool that allows you to write and edit
 code with OpenAI's GPT models.  You can ask GPT to help you start
 a new project, or modify code in your existing git repo.
 Aider makes it easy to
